@@ -23,7 +23,7 @@ Whether it’s solving a technical challenge or collaborating across teams, I br
 - [Email](harishreddypanati007@gmail.com) : harishreddypanati007@gmail.com 
 
 
-Hi there! Here is a quick snapshot of my work in the data field, showing off my skills and know-how in this area.
+Here is a quick snapshot of my work in the data field, showing off my skills and know-how in this area.
 
 **Table of Contens :**
 - [Data Engineering](https://github.com/le0stel0n/Harish-Reddy-Portfolio?tab=readme-ov-file#-data-engineering)
