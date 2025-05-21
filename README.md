@@ -3,7 +3,7 @@ Hi there! Here is a quick snapshot of my work in the data field, showing off my 
 
 **Table of Contens :**
 - [Data Engineering](https://github.com/le0stel0n/Harish-Reddy-Portfolio?tab=readme-ov-file#-data-engineering)
-- [Python: Data Analysis and Machine Learning](https://sites.google.com/colorado.edu/smartphonedependencyprediction/introduction)
+- [Python: Data Analysis and Machine Learning](https://github.com/le0stel0n/Harish-Reddy-Portfolio?tab=readme-ov-file#-python-data-analysis-and-machine-learning)
 
 - [Completed Course and Certification]()
 
