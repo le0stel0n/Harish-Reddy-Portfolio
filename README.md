@@ -37,10 +37,10 @@ Project Link | Associated | Area | Library | Project Description
 
 ### 📂 Completed Courses and Degree
 
-- [Master's of Science in Data Science ](https://drive.google.com/file/d/1TmRK_K2bvpqF7N6OWUtKA6zoWwVDB8CF/view?usp=sharing) | University of Colorado Boulder
+- [Master's of Science in Data Science ](https://drive.google.com/file/d/1TmRK_K2bvpqF7N6OWUtKA6zoWwVDB8CF/view?usp=sharing) | University of Colorado Boulder 2025
 
     
-- [Bachelor's of Technology and Sciences](https://drive.google.com/file/d/1cJ0FRN3sq9GSrCKpCems4U5RBtw6lnOX/view?usp=sharing) | Karunya Institute of Technology and Sciences
+- [Bachelor's of Technology and Sciences](https://drive.google.com/file/d/1cJ0FRN3sq9GSrCKpCems4U5RBtw6lnOX/view?usp=sharing) | Karunya Institute of Technology and Sciences 2023
 
 by clicking the above links you'll be able to see the courses that I took.
 
