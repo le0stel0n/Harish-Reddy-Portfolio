@@ -1,4 +1,26 @@
 # Harish's Portfolio
+
+### Myself 
+
+<img src="myself.jpeg" alt="Profile" width="300"/> 
+
+👋 Hi, I'm Harish — a Data Scientist & AI Engineer passionate about building intelligent, real-world solutions.
+
+I specialize in designing and deploying scalable machine learning systems, real-time data pipelines, and AI-powered applications that drive impact. With a strong foundation in Python, cloud platforms, and predictive modeling, I enjoy working at the intersection of data, technology, and human behavior.
+
+From developing recommendation engines and deploying gRPC microservices to designing real-time IoT alert systems, I thrive on turning complex datasets into actionable insights. I’m especially interested in responsible AI, digital wellness, and leveraging technology to solve socially meaningful problems.
+
+Whether it’s solving a technical challenge or collaborating across teams, I bring a curious mindset, a builder’s mentality, and a passion for continuous learning to everything I do.
+
+#### you can view my resume here : 
+
+[Resume](https://drive.google.com/file/d/1MO0_a_mMnWrTATC76qMhG06ZDTMf0efC/view?usp=sharing)
+
+#### Contact:
+
+- [LinkidIn](https://www.linkedin.com/in/harishreddypanati/)     
+
+- [Email](harishreddypanati007@gmail.com) : harishreddypanati007@gmail.com 
 Hi there! Here is a quick snapshot of my work in the data field, showing off my skills and know-how in this area.
 
 **Table of Contens :**
@@ -44,24 +66,4 @@ Project Link | Associated | Area | Library | Project Description
 
 by clicking the above links you'll be able to see the courses that I took.
 
-### Myself 
 
-<img src="myself.jpeg" alt="Profile" width="300"/> 
-
-👋 Hi, I'm Harish — a Data Scientist & AI Engineer passionate about building intelligent, real-world solutions.
-
-I specialize in designing and deploying scalable machine learning systems, real-time data pipelines, and AI-powered applications that drive impact. With a strong foundation in Python, cloud platforms, and predictive modeling, I enjoy working at the intersection of data, technology, and human behavior.
-
-From developing recommendation engines and deploying gRPC microservices to designing real-time IoT alert systems, I thrive on turning complex datasets into actionable insights. I’m especially interested in responsible AI, digital wellness, and leveraging technology to solve socially meaningful problems.
-
-Whether it’s solving a technical challenge or collaborating across teams, I bring a curious mindset, a builder’s mentality, and a passion for continuous learning to everything I do.
-
-#### you can view my resume here : 
-
-[Resume](https://drive.google.com/file/d/1MO0_a_mMnWrTATC76qMhG06ZDTMf0efC/view?usp=sharing)
-
-#### Contact:
-
-- [LinkidIn](https://www.linkedin.com/in/harishreddypanati/)     
-
-- [Email](harishreddypanati007@gmail.com) : harishreddypanati007@gmail.com 
